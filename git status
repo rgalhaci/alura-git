@@ -1,0 +1,23 @@
+[33mcommit 8ec379204fd26b5e9c91b990bab6fb5aef694807[m[33m ([m[1;36mHEAD -> [m[1;32mtitulo[m[33m)[m
+Author: Reginaldo Martins Galhaci <reginaldo.galhaci@olos.com.br>
+Date:   Wed Jan 5 08:56:36 2022 -0300
+
+    Alterando titulo da pagina
+
+[33mcommit 92758e43f951ce809db0928fe471a99f27e6e439[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Reginaldo Martins Galhaci <reginaldo.galhaci@olos.com.br>
+Date:   Tue Jan 4 18:15:55 2022 -0300
+
+    Renomeando curso de Integração Contínua
+
+[33mcommit f8d3acf27e48598d77f0bb4498200caf185d46da[m
+Author: Reginaldo Martins Galhaci <reginaldo.galhaci@olos.com.br>
+Date:   Tue Jan 4 17:37:18 2022 -0300
+
+    Acento adicionado no curso de Integração Contínua
+
+[33mcommit 0aa57df648a34083a226b8a8b089362022d85147[m
+Author: Reginaldo Martins Galhaci <reginaldo.galhaci@olos.com.br>
+Date:   Tue Jan 4 17:31:38 2022 -0300
+
+    Criando arquivo index.html com lista de cursos
